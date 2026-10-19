@@ -1,0 +1,5 @@
+numpy
+sounddevice
+# only needed for --midi
+mido
+python-rtmidi
